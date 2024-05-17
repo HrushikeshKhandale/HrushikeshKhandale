@@ -40,6 +40,5 @@
  </br>
 </br>
 
-![snake gif](https://github.com/HrushikeshKhandale/HrushikeshKhandale/blob/output/github-contribution-grid-snake.gif)
 
 </div>
