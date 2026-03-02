@@ -1,15 +1,6 @@
 <h1 align="center">Hi, I'm Hrushikesh Khandale 👋</h1>
 <p align="center">🚀 Full-Stack Developer | 🎨 UI Enthusiast | ⚙️ Problem Solver</p>
 
-<p align="center">
-  <a href="https://github.com/HrushikeshKhandale">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshKhandale&layout=compact&langs_count=10&theme=radical"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/HrushikeshKhandale">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=HrushikeshKhandale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-  </a>
-</p>
 
 ---
 
